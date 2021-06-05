@@ -1,7 +1,5 @@
-# Welcome to Project 3 Review
+# Welcome to Project 5 Review
 
-For this project we were preparing ourselves to be able to Gain experience interpreting functional descriptions and specifications to complete an assignment and Gain experience breaking a project into manageable components
+## Project Description/Outcome:
 
-## Main TakeAway/Interest From this Project:
-
-- My main interest was the apesct when we had to use the "fastify" function to get verbs and it was just pretty interesting on how fastify had so much imprtance an ability attached to it
+- This project was an optional, extra Credit, that i chose not to partake in because i wasnt to sure on how i was supposed to go about addin the required function the criteria was askin for.
